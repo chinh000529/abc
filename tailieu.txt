@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 cai con cu kec 
-hiehihi ahaha
+hiehihi ahaha 
+con cc
+
+=======
+>>>>>>> parent of d101477... them file
